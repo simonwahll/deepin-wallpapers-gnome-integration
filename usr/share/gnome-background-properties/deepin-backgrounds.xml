@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper deleted="false">
+		<name>1</name>
+		<filename>/usr/share/wallpapers/deepin/Balloon_by_Matt_Benson.jpg</filename>
+		<options>zoom</options>
+    		<pcolor>#ffffff</pcolor>
+    		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>2</name>
+		<filename>/usr/share/wallpapers/deepin/Beach_by_Samuel_Scrimshaw.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>3</name>
+		<filename>/usr/share/wallpapers/deepin/desktop.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>4</name>
+		<filename>/usr/share/wallpapers/deepin/Flowing_Ribbon.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>5</name>
+		<filename>/usr/share/wallpapers/deepin/Flying_Whale_by_Shu_Le.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>6</name>
+		<filename>/usr/share/wallpapers/deepin/Grassland_Scenery_by_Shi_Yuejun.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>7</name>
+		<filename>/usr/share/wallpapers/deepin/Hummingbird_by_Shu_Le.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>8</name>
+		<filename>/usr/share/wallpapers/deepin/Overlooking_by_Lance_Asper.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>9</name>
+		<filename>/usr/share/wallpapers/deepin/Paper_Architecture_by_Dmitri_Popov.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>10</name>
+		<filename>/usr/share/wallpapers/deepin/Scenery_in_Plateau_by_Arto_Marttinen.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+</wallpapers>

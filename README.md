@@ -4,6 +4,14 @@ When installing the `deepin-wallpapers` package in Arch Linux the wallpapers wil
 
 ## Installing
 
+### AUR
+
+```sh
+yay -S deepin-wallpapers-gnome-integration
+```
+
+### Manually
+
 1. Clone this repository.
 2. Run the `install.sh` script with `sudo`.
 ```sh
